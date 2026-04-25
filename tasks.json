@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": 1,
+    "text": "hello",
+    "completed": true,
+    "priority": "Medium",
+    "deadline": "No deadline",
+    "deadline_date": null,
+    "created_date": "25.04.2026 14:21"
+  }
+]
