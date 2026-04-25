@@ -1,7 +1,7 @@
 #  ToDo List Pro
 
-## 👤 Author
-Kalysbekov Aidar
+## 👤 Authors
+Kalysbekov Aidar, Salamov Amir, Docturbaev Erjan
 
 ##  Description
 A modern task management application with graphical user interface built using Python and Tkinter. The application helps users organize, track, and manage their daily tasks efficiently with priorities and deadlines.
