@@ -41,7 +41,11 @@ ToDo List Pro provides a simple yet powerful interface where users can:
 ### Prerequisites
 - Python 3.x installed on your computer
 
+### Presentation
+https://canva.link/ll39ipux4vlrv3f
+
 ### Steps to Run
 1. Clone the repository:
 ```bash
 git clone https://github.com/aidar1403/ToDoApp.git
+
